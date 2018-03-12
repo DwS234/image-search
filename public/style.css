@@ -1,0 +1,19 @@
+/****** Main Styling ******/
+
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	color: #222;
+	background-color: #ECF0F1;
+}
+
+h1 {
+ text-align: center; 
+}
+
+p#header-desc {
+  margin-top: 2px;
+  padding: 0;
+  text-align: center;
+}
+
